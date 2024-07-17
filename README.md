@@ -24,18 +24,6 @@ EDUCOM is an online learning platform designed to provide a variety of courses f
 - blog.html: Page for blog posts.
 - contact.html: Contact form page.
 
-# Usage
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/educom.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd educom
-   ```
-3. Open index.html in your web browser to view the website.
-
 # Home Page and Navbar
 ![01 Home and Course](https://github.com/user-attachments/assets/ba30c03c-d3f6-4d05-9063-9e6aab9f67a0)
 
